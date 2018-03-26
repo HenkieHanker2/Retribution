@@ -6,4 +6,4 @@ A legit internal cheat I stopped working on
 + Backtracking
 + ESP
 + Auto bhop
-+ OOP mouse menu
++ OOP mouse menu (thanks to moveax)
